@@ -12,8 +12,7 @@ A simple and friendly bilingual tip calculator built with **Python** and **Strea
 
 ## 🌐 Live App
 
-👉 [Click here to open the app](https://your-username.streamlit.app)  
-*(replace this with your actual Streamlit link)*
+👉 [Click here to open the app](https://oran-tip-calculator.streamlit.app/)  
 
 ---
 
